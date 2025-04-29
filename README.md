@@ -18,7 +18,7 @@
 ### 💻 Tecnologias que conheço
 
 - 🐍 Python
-- 🌐 HTML | CSS | JavaScript
+- 🌐 JavaScript
 - 🐘 PHP
 - 📦 Git e GitHub
 
@@ -32,7 +32,7 @@ Veja os repositórios fixados para alguns dos meus projetos em desenvolvimento.
 
 ### 📫 Contato
 
-- [Andresantoos01 ](https://www.linkedin.com/in/andresantoos01) (linkedin)
+- LinkedIn [Andresantoos01 ](https://www.linkedin.com/in/andresantoos01) 
 - 📧 Email: dev.andre2202@gmail.com
 
 
